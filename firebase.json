@@ -1,0 +1,9 @@
+{
+  "firebase": "natenorberg-kanban",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

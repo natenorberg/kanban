@@ -1,0 +1,9 @@
+{
+  "name": "norberg-kanban",
+  "description": "My attenpt to create a Trello-like kanban board with javascript and angular fire",
+  "author": "Nate Norberg <natenorberg@gmail.com>",
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-animate": "~1.4.3"
+  }
+}
